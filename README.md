@@ -1,5 +1,8 @@
 # Business-Insights-360
 ## Business Insights 360 - Power BI Project for AtliQ Hardware
+
+[LinkedIn Post](https://www.linkedin.com/posts/mounikapalli_business-insights-360-power-bi-project-activity-7165979462206009345-kwEu?utm_source=share&utm_medium=member_desktop)
+[Live Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiZmVkNTg4NGUtMDE0Yy00YjE1LThkZWYtMTUzMjIyN2FkNGU4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 ## About AtliQ Hardware
 AtliQ Hardware, a global manufacturer and distributor, faced significant challenges, necessitating precise data analysis to make informed decisions.
 ## Challenge
